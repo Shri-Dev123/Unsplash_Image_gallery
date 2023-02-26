@@ -1,1 +1,1 @@
-"react-hooks/exhaustive-deps": "off";
+"react-hooks/exhaustive-deps"= "off";
